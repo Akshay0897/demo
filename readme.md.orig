@@ -1,0 +1,7 @@
+This is md file bro
+<<<<<<< HEAD
+hey bro
+=======
+this is going to cause a conflict
+>>>>>>> very-bad
+dsfdf
